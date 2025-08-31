@@ -57,5 +57,3 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ```
 
-Would you like me to also add a **Table of Contents with direct PDF links** (so on GitHub people can click and open each day’s note directly)?
-```
