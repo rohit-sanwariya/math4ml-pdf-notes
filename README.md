@@ -1,5 +1,5 @@
 
-```markdown
+
 # 📘 Math for Machine Learning – 30 Day PDF Notes  
 
 This repository contains my **30-Day Math for AI/ML Notes Series**, where each day I cover a key mathematical concept that forms the backbone of Artificial Intelligence and Machine Learning.  
