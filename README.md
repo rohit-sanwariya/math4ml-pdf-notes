@@ -4,9 +4,6 @@
 
 This repository contains my **30-Day Math for AI/ML Notes Series**, where each day I cover a key mathematical concept that forms the backbone of Artificial Intelligence and Machine Learning.  
 
-The notes are written in **LaTeX** and exported as **PDFs**, making them clean, structured, and easy to revise.  
-
----
 
 
 
