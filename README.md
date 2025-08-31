@@ -37,7 +37,7 @@ The notes are written in **LaTeX** and exported as **PDFs**, making them clean, 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/rohit-sanwariya/math4ml-pdf-notes.git
-````
+   ```
 
 2. Open the PDFs for each day inside the repo.
 
