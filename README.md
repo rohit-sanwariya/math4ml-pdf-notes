@@ -1,12 +1,9 @@
 
-```markdown
+
 # 📘 Math for Machine Learning – 30 Day PDF Notes  
 
 This repository contains my **30-Day Math for AI/ML Notes Series**, where each day I cover a key mathematical concept that forms the backbone of Artificial Intelligence and Machine Learning.  
 
-The notes are written in **LaTeX** and exported as **PDFs**, making them clean, structured, and easy to revise.  
-
----
 
 
 
@@ -35,9 +32,10 @@ The notes are written in **LaTeX** and exported as **PDFs**, making them clean, 
 
 ## 🛠 How to Use  
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/<your-username>/math4ml-pdf-notes.git
-````
+```bash
+   git clone https://github.com/rohit-sanwariya/math4ml-pdf-notes.git 
+```
+
 
 2. Open the PDFs for each day inside the repo.
 
@@ -55,7 +53,4 @@ If you find this project useful, please ⭐ the repo and share it with others le
 
 This project is licensed under the [MIT License](./LICENSE).
 
-```
-
-Would you like me to also add a **Table of Contents with direct PDF links** (so on GitHub people can click and open each day’s note directly)?
 ```
